@@ -1,2 +1,3 @@
 dependency test vihs project.aliases
 dependency test vihs project.lvlps
+.dependency test vihs project.UserState/debug.lvprojstate
